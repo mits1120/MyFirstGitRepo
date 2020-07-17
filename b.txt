@@ -1,2 +1,3 @@
 This is first line in b.txt
 Adding line from Github
+Adding line from local
