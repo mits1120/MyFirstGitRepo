@@ -1,1 +1,2 @@
 This is first line in b.txt
+Adding line from Github
